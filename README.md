@@ -40,3 +40,5 @@ As a Data Scientist and Data Analyst working for a startup investment firm, the 
 
 ### Conclusion:
 This project provides us valuable insights into the historical performance of Tesla and GameStop stocks, including their share prices and quarterly revenues. The interactive graphs generated through the `make_graph` function offer a visual representation of key financial metrics, aiding investment decisions. The project showcases the versatility of data science and analysis techniques in extracting, cleaning, and presenting financial data for informed decision-making in the context of stock investments.
+
+
