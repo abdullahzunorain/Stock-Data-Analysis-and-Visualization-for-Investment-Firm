@@ -1,0 +1,2 @@
+# Stock-Data-Analysis-and-Visualization-for-Investment-Firm
+As a Data Scientist working for a startup investment firm, the goal of this project is to extract, analyze, and visualize financial data for selected stocks – Tesla and GameStop. The project involves a combination of web scraping, data extraction using Python libraries (yfinance, requests, BeautifulSoup), and creating interactive dashboards.
